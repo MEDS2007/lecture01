@@ -1,9 +1,11 @@
 # MEDS2007
 
-## Lecture 2
+## Lecture 2: Accessibility, Information Architecture & Design
 
-**16 January 2017**
+**18 January 2018**
 
-This is the presentation for the second lecture on **Accessibility**, **Information Architecture** & **Design**.
+This is the presentation for the second lecture.
 
-You can [view this presentation online](https://meds2007.github.io/lecture02/) on GitHub pages.
+[View this presentation online](https://meds2007.github.io/lecture02/) on GitHub pages.
+
+The HTML/CSS/JavaScript slideshow library [reveal.js](http://lab.hakim.se/reveal-js/) was used to create the slides.
