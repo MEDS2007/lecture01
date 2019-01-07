@@ -21,6 +21,6 @@
   - [Design: PARC, Repetition …](https://meds2007.github.io/lecture02/#/4/12)
   - [Design: PARC, Contrast …](https://meds2007.github.io/lecture02/#/4/15)
 - [Colour scheme chooser](https://meds2007.github.io/lecture02/#/5)
-- [Simpliocity](https://meds2007.github.io/lecture02/#/6)
+- [Simplicity](https://meds2007.github.io/lecture02/#/6)
 
 Slides created in Markdown (plus HTML5, JavaScript and CSS) using [reveal.js](https://revealjs.com/).
