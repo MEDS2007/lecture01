@@ -20,7 +20,12 @@
   - [Design: PARC, Alignment - grids …](https://meds2007.github.io/lecture02/#/4/6)
   - [Design: PARC, Repetition …](https://meds2007.github.io/lecture02/#/4/12)
   - [Design: PARC, Contrast …](https://meds2007.github.io/lecture02/#/4/15)
-- [Colour scheme chooser](https://meds2007.github.io/lecture02/#/5)
-- [Simplicity](https://meds2007.github.io/lecture02/#/6)
+- [Wireframes …](https://meds2007.github.io/lecture02/#/5)
+  - [Wireframes: hand-drawn sketches …](https://meds2007.github.io/lecture02/#/5/1)
+  - [Wireframes: visual mock-ups …](https://meds2007.github.io/lecture02/#/5/3)
+  - [Wireframes: complex interfaces](https://meds2007.github.io/lecture02/#/5/4)
+  - [Wireframes: useful references](https://meds2007.github.io/lecture02/#/5/5)
+- [Colour scheme chooser](https://meds2007.github.io/lecture02/#/6)
+- [Simplicity](https://meds2007.github.io/lecture02/#/7)
 
 Slides created in Markdown (plus HTML5, JavaScript and CSS) using [reveal.js](https://revealjs.com/).
