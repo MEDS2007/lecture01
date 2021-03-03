@@ -23,7 +23,7 @@
   - [Design: PARC, Contrast …](https://meds2007.github.io/lecture01/#/5/15)
 - [Wireframes …](https://meds2007.github.io/lecture01/#/6)
   - [Wireframes: hand-drawn sketches …](https://meds2007.github.io/lecture01/#/6/1)
-  - [Wireframes: visual mock-ups …](https://meds2007.g8thub.io/lecture01/#/6/3)
+  - [Wireframes: visual mock-ups …](https://meds2007.github.io/lecture01/#/6/3)
   - [Wireframes: complex interfaces](https://meds2007.github.io/lecture01/#/6/4)
   - [Wireframes: useful references](https://meds2007.github.io/lecture01/#/6/5)
 - [Colour scheme chooser](https://meds2007.github.io/lecture01/#/7)
